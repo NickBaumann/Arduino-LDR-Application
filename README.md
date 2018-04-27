@@ -17,7 +17,7 @@ Our Parts List
 * Adafruit HUZZAH32 - ESP32 Feather
 * Eboot Photoresistor
 * Adafruit 3.7v 2000mAh Litium Ion Battery
-* 2"x3"x4" Precision 3D Printed Box
+* 2"x3"x4" Precision 3D Printed Container
 * 1000 ± 1% Ohm Elegoo Resistor
 * Dupont Jumper Wires - 2 Male to Female, 4 Male to Male
 * Breadboard - Self-Adhesive (2 power busses, 10 columns, 30 rows)
@@ -25,13 +25,11 @@ Our Parts List
 
 
 ### Software
-Arduino IDE
+The [Arduino IDE](https://www.arduino.cc/en/Main/Software) will be needed in order to program the IoT device.
 
-Thinger.io
+the [Thinger.io](https://github.com/thinger-io/Arduino-Library) arduino library should be added.
 
 Autodesk Fusion 360
-
-The [Arduino IDE](https://www.arduino.cc/en/Main/Software) will be needed in order to program the IoT device. Along with this, the [Thinger.io](https://github.com/thinger-io/Arduino-Library) arduino library should be added.
 
 Our Software
 * Arduino IDE
