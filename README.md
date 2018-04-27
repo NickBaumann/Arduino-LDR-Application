@@ -33,7 +33,7 @@ The [Thinger.io](https://github.com/thinger-io/Arduino-Library) arduino library 
 
 The [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview?mktvar002=724861&mkwid=sOICwxb1H|pcrid|226118724187|pkw|autodesk%20fusion%20360|pmt|e|pdv|c|slid||pgrid|52893102612|ptaid|kwd-488376946792|&intent=US-Fusion360-BR&utm_medium=cpc&utm_source=google&utm_campaign=GGL_FUSION360_US_BR_SEM_EXACT%3EBrand&utm_term=autodesk%20fusion%20360&utm_content=sOICwxb1H|pcrid|226118724187|pkw|autodesk%20fusion%20360|pmt|e|pdv|c|slid||pgrid|52893102612|ptaid|kwd-488376946792|&gclid=Cj0KCQjw8YXXBRDXARIsAMzsQuXhwh4B2E9o9E_S_hIudQVvcd4p0aYrDlxUHR1Ml3hEM7ls09GC-zUaAnlCEALw_wcB&dclid=CLSc1Z_X2doCFUfawAodU7cOsw) software is used to design files to be printed by a 3D printer.
 
-**Our Software**
+**Our Software List**
 * Arduino IDE
 * Thinger.io
 * Autodesk Fusion360
